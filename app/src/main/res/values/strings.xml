@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScreenApp</string>
+    <string name="title">ABOUT</string>
+    <string name="c1">\n\n이름: 여승연\n나이: 22</string>
+    <string name="c2">기본 정보</string>
+    <string name="c3">기본정보를 입력합니다.</string>
+    <string name="c4">소개</string>
+    <string name="c5">자기소개를 입력합니다.\n\n자유롭게 입력 가능합니다.</string>
+</resources>
